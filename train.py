@@ -26,7 +26,7 @@ def main():
   """Assume Single Node Multi GPUs Training Only"""
   assert torch.cuda.is_available(), "CPU training is not allowed."
 
-  n_gpus = torch.cuda.device_count()
+  n_gpus = 1 # torch.cuda.device_count()
   os.environ['MASTER_ADDR'] = 'localhost'
   os.environ['MASTER_PORT'] = '80000'
 
