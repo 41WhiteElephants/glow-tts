@@ -67,7 +67,6 @@
 /home/174520hj/dataset/CS0_70.wav|Dzięki pobraniu szpiku kostnego możemy otrzymać zupełnie nowy układ odpornościowy.
 /home/174520hj/dataset/CS0_71.wav|Możemy też przeszczepić serce, wątrobę, płuca, nerki i trzustkę.
 /home/174520hj/dataset/CS0_72.wav|Nikt jeszcze nie podjął się jednak transplantacji ludzkiego mózgu.
-/home/174520hj/dataset/CS0_73.wav|Kiedy w przyszłości sprostamy technicznym wyzwaniom związanym z tym przedsięwzięciem, natychmiast pojawią się dylematy etyczne.
 /home/174520hj/dataset/CS0_74.wav|Osoba która otrzyma nowy mózg po śmierci swojego, przestanie być sobą.
 /home/174520hj/dataset/CS0_75.wav|Będziesz patrzeć na kogoś wyglądającego jak twoja córka, ale czy z mózgiem kogoś innego, z zupełnie inną świadomością, myślami i marzeniami, to nadal będzie ona?
 /home/174520hj/dataset/CS0_76.wav|Nie można przeszczepić mózgu, nie przeszczepiając osoby, do której pierwotnie należał, i właśnie to czyni z niego nasz jedyny niezastąpiony narząd.
@@ -149,7 +148,6 @@
 /home/174520hj/dataset/CS10_156.wav|i ściśle z nim współpracuje
 /home/174520hj/dataset/CS10_157.wav|dzięki hipokampowi pamiętasz kiedy ostatni raz w kolejce do kasy doszło u ciebie do hiperwentylacji
 /home/174520hj/dataset/CS10_158.wav|i o mało nie zemdlałeś
-/home/174520hj/dataset/CS10_159.wav|sama myśl o tym wystarczy by aktywować ciało migdałowate
 /home/174520hj/dataset/CS10_16.wav|i im trudniejsze zadanie nas czeka tym więcej z nas uprawia prokrastynację
 /home/174520hj/dataset/CS10_160.wav|wtedy odczuwasz lęk przed lękiem
 /home/174520hj/dataset/CS10_161.wav|lęk to naturalny strach który wyrwał się spod kontroli
@@ -157,7 +155,6 @@
 /home/174520hj/dataset/CS10_163.wav|to on sprawia że trzymamy się z dala od buchających płomieni i ciemnych zaułków w dzielnicach owianych złą sławą
 /home/174520hj/dataset/CS10_164.wav|to głównie za jego sprawą turystom pocą się dłonie kiedy zbliżają się do krawędzi preikestolen nad lysefjorden
 /home/174520hj/dataset/CS10_165.wav|gdybyśmy nie mieli ciała migdałowatego wierzchołek klifu musiałby być ogrodzony ze wszystkich stron
-/home/174520hj/dataset/CS10_166.wav|i wszędzie musiałyby stać tabliczki z ostrzeżeniem o niebezpieczeństwie
 /home/174520hj/dataset/CS10_167.wav|jednym słowem
 /home/174520hj/dataset/CS10_168.wav|ciało migdałowate nas chroni
 /home/174520hj/dataset/CS10_169.wav|w przeciwieństwie do leków antydepresyjnych większość środków zwalczających lęk uzależnia odurza i otumania
@@ -575,7 +572,6 @@
 /home/174520hj/dataset/CS11_36.wav|obecnie wyniki testu są porównywane z grupą referencyjną przy czym średnia skali wynosi sto
 /home/174520hj/dataset/CS11_37.wav|dziewięćdziesiąt do stu dziesięciu
 /home/174520hj/dataset/CS11_38.wav|w ogólnej populacji rozkład wyników na skali iq ma cechy rozkładu normalnego
-/home/174520hj/dataset/CS11_39.wav|to znaczy krzywa ma kształt kościelnego dzwonu
 /home/174520hj/dataset/CS11_4.wav|cytat pochodzi z havamal
 /home/174520hj/dataset/CS11_40.wav|większość to ludzie przeciętnie inteligentni którzy plasują się pośrodku skali
 /home/174520hj/dataset/CS11_41.wav|znacznie mniej jest natomiast ludzi z bardzo niskim lub bardzo wysokim ilorazem inteligencji
@@ -586,7 +582,6 @@
 /home/174520hj/dataset/CS11_46.wav|kolejne dwa procent stanowią osoby o najwyższym ilorazie inteligencji który oznacza wynik powyżej stu trzydziestu
 /home/174520hj/dataset/CS11_47.wav|te osoby mogą ubiegać się o członkostwo w dobrze znanym stowarzyszeniu mensa
 /home/174520hj/dataset/CS11_48.wav|cała masa naukowców od blisko stu lat próbuje opracować możliwie najlepsze testy iq
-/home/174520hj/dataset/CS11_49.wav|te których używamy obecnie są dobre ale nie optymalne
 /home/174520hj/dataset/CS11_5.wav|zbioru pieśni spisanych w trzynastym wieku
 /home/174520hj/dataset/CS11_50.wav|trwają prace nad ich udoskonaleniem i jeszcze lepszą interpretacją
 /home/174520hj/dataset/CS11_51.wav|jak dotąd eksperci nie zdołali osiągnąć porozumienia i wskazać jednego najbardziej wiarygodnego testu iq
@@ -735,7 +730,6 @@
 /home/174520hj/dataset/CS13_16.wav|by wydostać na ląd obiad który pływał w rzekach i fiordach ludzie epoki kamienia łupanego musieli się naradzić
 /home/174520hj/dataset/CS13_160.wav|pomaga to połączyć elementy które nie mają ze sobą wiele wspólnego
 /home/174520hj/dataset/CS13_161.wav|do badania kreatywności wykorzystuje się najczęściej nowoczesne metody neuroobrazowania takie jak rezonans magnetyczny mri i pozytonowa tomografia emisyjna
-/home/174520hj/dataset/CS13_162.wav|pet
 /home/174520hj/dataset/CS13_163.wav|szczególny rodzaj mri pozwala zobaczyć które obszary mózgu są najbardziej ukrwione podczas rozwiązywania określonego typu zadań
 /home/174520hj/dataset/CS13_164.wav|pet umożliwia zaś zaobserwowanie które struktury mózgu zużywają najwięcej glukozy
 /home/174520hj/dataset/CS13_165.wav|przy pewnych zadaniach angażujących motorykę czucie skórne i mowę widać wyraźny podział funkcji mózgowych
@@ -748,7 +742,6 @@
 /home/174520hj/dataset/CS13_171.wav|nie jest zdominowana przez ośrodek mowy
 /home/174520hj/dataset/CS13_172.wav|i chociaż prawa część kory przedczołowej jest najbardziej zaangażowana w procesy twórcze pozostałe obszary obu płatów czołowych oraz oba płaty ciemieniowe również odgrywają w nich istotną rolę
 /home/174520hj/dataset/CS13_173.wav|a zatem kreatywność ma swoje źródło w obu półkulach mózgu
-/home/174520hj/dataset/CS13_18.wav|ówcześni ludzie zaczęli również ozdabiać swoje domy malowidłami ściennymi
 /home/174520hj/dataset/CS13_19.wav|rysunki naskalne przedstawiające ludzi zwierzęta i łodzie traktujemy jako absolutnie kluczową część naszego dziedzictwa kulturowego
 /home/174520hj/dataset/CS13_2.wav|kiedy spaceruję po ekeberg w oslo i przyglądam się zachowanym do dzisiaj rysunkom wyrytym w skale które mają od czterech do pięciu tysięcy lat
 /home/174520hj/dataset/CS13_20.wav|oczywiście żeby zyskać miano części dziedzictwa kulturowego nie trzeba koniecznie dorównywać dziełom michała anioła
@@ -1086,7 +1079,6 @@
 /home/174520hj/dataset/CS15_53.wav|nawyki żywieniowe które obecnie powodują choroby cywilizacyjne z punktu widzenia ewolucji przyczyniły się do tego że mamy tak rozwinięty mózg
 /home/174520hj/dataset/CS15_54.wav|a tym samym że tak dobrze radzimy sobie w świecie
 /home/174520hj/dataset/CS15_55.wav|mózg jest drogi w utrzymaniu
-/home/174520hj/dataset/CS15_56.wav|nasi przodkowie jedli mało energetyczne pożywienie głównie warzywa owoce i inne pokarmy roślinne
 /home/174520hj/dataset/CS15_57.wav|gdyby mieli tak duży mózg jak współczesny człowiek musieliby jeść niemal przez cały dzień
 /home/174520hj/dataset/CS15_58.wav|homo erectus którego poznaliśmy w rozdziale poświęconym ewolucji nauczył się posługiwania ogniem i dzięki temu zyskał możliwość jedzenia mięsa bez strachu że umrze z powodu zakażenia
 /home/174520hj/dataset/CS15_59.wav|poza tym obróbka cieplna jedzenia sprawia że ilość energii którą można uzyskać ogromnie wzrasta
@@ -1325,7 +1317,6 @@
 /home/174520hj/dataset/CS16_88.wav|a my zaczynamy intensywnie rozglądać się za węglowodanami
 /home/174520hj/dataset/CS16_89.wav|dlatego sięganie po pepsi max kiedy dopadnie nas ochota na coś słodkiego niekoniecznie jest dobrym rozwiązaniem
 /home/174520hj/dataset/CS16_9.wav|właśnie na tym polegała strategia firmy
-/home/174520hj/dataset/CS16_90.wav|wręcz przeciwnie
 /home/174520hj/dataset/CS16_91.wav|może jeszcze bardziej nasilić problem
 /home/174520hj/dataset/CS16_92.wav|czekoholicy w łonie matki
 /home/174520hj/dataset/CS16_93.wav|jeśli twoja mama jadła w ciąży dużo czosnku prawdopodobnie ty też wcześnie zacząłeś go jeść
@@ -1539,13 +1530,10 @@
 /home/174520hj/dataset/CS17_32.wav|oddziałują na niego środki odurzające które prowadzą do uzależnienia
 /home/174520hj/dataset/CS17_33.wav|albo naśladują jeden z naturalnych neuroprzekaźników
 /home/174520hj/dataset/CS17_34.wav|albo zmieniają jego poziom zwiększając jego uwalnianie lub hamując wychwyt zwrotny w komórce nerwowej z której został uwolniony
-/home/174520hj/dataset/CS17_35.wav|to co ludzie nazywają uzależnieniem psychicznym w rzeczywistości jest także uzależnieniem fizycznym
 /home/174520hj/dataset/CS17_36.wav|fakt że osoba paląca musi zapalić po obiedzie albo czuje że stres znika w tej samej chwili w której papieros ląduje między jej palcami jest równie ważnym elementem uzależnienia co objawy fizyczne
-/home/174520hj/dataset/CS17_37.wav|wiele metod leczenia odwykowego ma na celu głównie zwalczanie takich nawyków
 /home/174520hj/dataset/CS17_38.wav|każdego dnia postaraj się zapalić porannego papierosa trochę później i trzymaj go między innymi palcami lub w drugiej ręce
 /home/174520hj/dataset/CS17_39.wav|to działa
 /home/174520hj/dataset/CS17_4.wav|a potem zabawa zaczyna się od nowa
-/home/174520hj/dataset/CS17_40.wav|ale nawyki są także fizyczne
 /home/174520hj/dataset/CS17_41.wav|odpowiadają za to sieci komórek nerwowych które tak często przesyłały impulsy że stały się silne i stabilne
 /home/174520hj/dataset/CS17_42.wav|jeśli nie sięgamy po papierosa za każdym razem kiedy czujemy się zestresowani lecz mamy poczucie że radzimy sobie ze stresem bez pomocy błękitnego dymku osłabiamy odpowiedzialne za nałóg sieci neuronowe
 /home/174520hj/dataset/CS17_43.wav|najpewniejszy sposób na uniknięcie uzależnienia to nigdy nie zaczynać
@@ -1732,7 +1720,6 @@
 /home/174520hj/dataset/CS19_15.wav|i dlatego często posiłkuje się przypuszczeniami dotyczącymi informacji wzrokowych
 /home/174520hj/dataset/CS19_16.wav|by stworzyć skrojony na miarę obraz świata
 /home/174520hj/dataset/CS19_17.wav|hashtag the dress
-/home/174520hj/dataset/CS19_18.wav|dzięki mózgowi widzimy biały dom jako biały choć jest noc i nasze rzeczywiste wrażenie wzrokowe podpowiada nam że dom jest ciemnoszary
 /home/174520hj/dataset/CS19_19.wav|w środku dnia świat jest rozświetlony silnym niebieskobiałym światłem
 /home/174520hj/dataset/CS19_2.wav|świat który pokazuje ci mózg różni się nieco od tego który widzą inni ludzie
 /home/174520hj/dataset/CS19_20.wav|a o zachodzie słońca skąpany w odcieniach czerwieni
@@ -1808,7 +1795,6 @@
 /home/174520hj/dataset/CS1_153.wav|I to dzięki zmierzeniu długości cienia rzucanego przez słońce w dwóch różnych miastach.
 /home/174520hj/dataset/CS1_154.wav|Minęło kilka kolejnych tysiącleci, a my skonstruowaliśmy i wysłaliśmy na marsa roboty.
 /home/174520hj/dataset/CS1_155.wav|Od wierzchołków drzew do gyllrekka.
-/home/174520hj/dataset/CS1_158.wav|W ludzkim mózgu znajduje się przeciętnie osiemdziesiąt sześć miliardów komórek nerwowych.
 /home/174520hj/dataset/CS1_159.wav|Z czego szesnaście miliardów w korze.
 /home/174520hj/dataset/CS1_16.wav|Chociaż to kora mózgowa czyni z nas najbardziej inteligentny gatunek na ziemi, nie poradzilibyśmy sobie bez głębiej położonych części mózgu.
 /home/174520hj/dataset/CS1_160.wav|Żaden inny gatunek nie może pochwalić się większą liczbą neuronów w tej strukturze.
@@ -1901,7 +1887,6 @@
 /home/174520hj/dataset/CS1_54.wav|Może pomóc nam wykuć na blachę tabliczkę mnożenia, ale nawet jeśli nauczymy się jej tak, że aż rozboli nas hipokamp, nie staniemy się od tego lepszymi matematykami.
 /home/174520hj/dataset/CS1_55.wav|Rozumienie matematyki zawdzięczamy bowiem korze czołowej.
 /home/174520hj/dataset/CS1_56.wav|W samym środku mózgu, znajdują się dwa wzgórza.
-/home/174520hj/dataset/CS1_57.wav|Przesyłają one sygnały ze wszystkich zakątków sensorycznego uniwersum do kory mózgowej, uwzględniając najświeższe wiadomości pochodzące od zmysłów.
 /home/174520hj/dataset/CS1_58.wav|Gdybyśmy mieli porównać struktury mózgu do ludzi, to dwa wzgórza byłyby osobami które znają wszystkie plotki i we wszystko wtykają nos.
 /home/174520hj/dataset/CS1_59.wav|Wielkie autostrady wypustek neuronów przechodzą bowiem przez oba wzgórza i łączą się z innymi drogami, by stworzyć skomplikowane obiegi informacji elektrycznych, które pędzą według skoordynowanych, powtarzalnych wzorców.
 /home/174520hj/dataset/CS1_6.wav|Kresomózgowie i kora mózgowa rozwinęły się u ssaków dwieście milionów lat temu.
@@ -2189,7 +2174,6 @@
 /home/174520hj/dataset/CS2_73.wav|Płat czołowy to jednak nie tylko organizator naszych cech osobowości.
 /home/174520hj/dataset/CS2_74.wav|Bez niego nie bylibyśmy w stanie ruszyć palcem.
 /home/174520hj/dataset/CS2_75.wav|Każdym naszym ruchem steruje przede wszystkim tylna część płata czołowego.
-/home/174520hj/dataset/CS2_76.wav|Jego przednia część z kolei, czyni z nas ludzi moralnych i obdarzonych poczuciem humoru.
 /home/174520hj/dataset/CS2_77.wav|To kora przedczołowa.
 /home/174520hj/dataset/CS2_78.wav|Pomaga nam przewidzieć konsekwencje działań i dopasować nasze zachowanie do ogólnie przyjętych norm i reguł.
 /home/174520hj/dataset/CS2_79.wav|Mieści się w niej również pamięć robocza, która pozwala nam zatrzymywać wrażenia, tak długo aż zostaną ocenione i powiązane z trwającymi procesami i przechowywanymi informacjami.
@@ -2324,7 +2308,6 @@
 /home/174520hj/dataset/CS3_85.wav|u zwierząt pamięć i świadomość nie są tak ściśle ze sobą powiązane
 /home/174520hj/dataset/CS3_86.wav|na przykład jeśli chodzi o czas u zwierząt prawie wszystko dzieje się teraz
 /home/174520hj/dataset/CS3_87.wav|człowiek jest jedyną znaną istotą która ma jasne pojęcie na temat własnej historii
-/home/174520hj/dataset/CS3_88.wav|jaźń wyrosła ze skomplikowanego życia społecznego jakie wiedli nasi przodkowie
 /home/174520hj/dataset/CS3_89.wav|żyli w małych grupach i dzielili się znalezionym pożywieniem
 /home/174520hj/dataset/CS3_9.wav|zaburzenie osobowości nie jest bowiem chorobą
 /home/174520hj/dataset/CS3_90.wav|do tego potrzebna jest współpraca i samokontrola a to z kolei wymaga świadomości siebie
@@ -2387,7 +2370,6 @@
 /home/174520hj/dataset/CS4_140.wav|kiedy wyobrażamy sobie przyszłe zdarzenia lub planujemy wykonanie konkretnych zadań możemy stworzyć te sceny w wyobraźni bazując na swojej pamięci
 /home/174520hj/dataset/CS4_141.wav|nie jest ona obiektywnym obrazem przeszłości
 /home/174520hj/dataset/CS4_142.wav|można ją konstruować i rekonstruować na podstawie wiedzy o naszym otoczeniu
-/home/174520hj/dataset/CS4_143.wav|ważna część tego procesu zachodzi w hipokampie gdzie powstają przestrzenne spójne sceny oparte na tym co wcześniej widzieliśmy i przeżyliśmy
 /home/174520hj/dataset/CS4_144.wav|osoby z uszkodzonym hipokampem nie tylko tracą zdolność magazynowania wspomnień lecz również nie umieją sobie wyobrazić przyszłości
 /home/174520hj/dataset/CS4_145.wav|podobnie jak h m są zamknięte w teraźniejszości
 /home/174520hj/dataset/CS4_146.wav|nie potrafią mentalnie podróżować w czasie
@@ -2545,7 +2527,6 @@
 /home/174520hj/dataset/CS4_283.wav|co to to nie
 /home/174520hj/dataset/CS4_284.wav|po drugiej stronie tej szczeliny chemiczne neuroprzekaźniki napotykają kolejną komórkę nerwową należącą do danej sieci neuronowej
 /home/174520hj/dataset/CS4_285.wav|kiedy impuls chemiczny zostanie przeniesiony przez synapsę może znowu zamienić się w impuls elektryczny który mknie na spotkanie z następnym neuronem
-/home/174520hj/dataset/CS4_286.wav|synapsa jest miejscem w którym impuls jest przenoszony z jednej komórki nerwowej na drugą
 /home/174520hj/dataset/CS4_287.wav|powinniśmy zatem życzyć sobie jak najwięcej synaps
 /home/174520hj/dataset/CS4_288.wav|jeśli mamy ich dużo łatwiej nam stawić czoło nowym wyzwaniom
 /home/174520hj/dataset/CS4_289.wav|jak to osiągnąć
@@ -2798,7 +2779,6 @@
 /home/174520hj/dataset/CS5_252.wav|wszystkie informacje które docierają do hipokampu
 /home/174520hj/dataset/CS5_253.wav|najpierw przechodzą przez wiele innych obszarów kory mózgowej kojarzących wiedzę i interpretujących otrzymywane informacje
 /home/174520hj/dataset/CS5_254.wav|z zapachem jest inaczej
-/home/174520hj/dataset/CS5_255.wav|zapach dociera z kory czuciowej do hipokampu na skróty
 /home/174520hj/dataset/CS5_256.wav|bez objazdu przez obszary asocjacyjne w korze mózgowej
 /home/174520hj/dataset/CS5_257.wav|informacja zapachowa nie przechodzi nawet przez wzgórze jak to się dzieje w przypadku wszystkich innych wrażeń zmysłowych
 /home/174520hj/dataset/CS5_258.wav|i dobrze że bodźce zapachowe znają kilka dróg na skróty
@@ -2824,7 +2804,6 @@
 /home/174520hj/dataset/CS5_276.wav|pamięć węchowa jest zaskakująco stabilna
 /home/174520hj/dataset/CS5_277.wav|blackout
 /home/174520hj/dataset/CS5_278.wav|blackout nie jest terminem naukowym ale często się go używa
-/home/174520hj/dataset/CS5_279.wav|z tym zjawiskiem mamy do czynienia na przykład jeśli nie pamiętamy niczego co działo się kiedy byliśmy pod wpływem alkoholu
 /home/174520hj/dataset/CS5_28.wav|synapsy znajdują się w istocie szarej
 /home/174520hj/dataset/CS5_280.wav|co prawda wiele trzeba by tak się stało
 /home/174520hj/dataset/CS5_281.wav|ale mózg można odurzyć tak że wspomnienia nie zostaną zapisane
@@ -3165,7 +3144,6 @@
 /home/174520hj/dataset/CS7_186.wav|według badań opublikowanych w czasopiśmie science w dwa tysiące szóstym roku kobiety którym przed testem z matematyki wspomniano że mężczyźni są bardziej utalentowani matematycznie
 /home/174520hj/dataset/CS7_187.wav|osiągały znacznie gorsze wyniki od tych którym powiedziano że różnice w zdolnościach matematycznych między płciami nie istnieją
 /home/174520hj/dataset/CS7_188.wav|taksówkarze trenują mózg
-/home/174520hj/dataset/CS7_189.wav|czy można wytrenować hipokamp
 /home/174520hj/dataset/CS7_19.wav|istnieją siatki o dużych oczkach dla większych obszarów gdzie szczegóły są mniej ważne
 /home/174520hj/dataset/CS7_190.wav|gdy badacze mózgu z uniwersytetu w londynie postawili sobie to pytanie znaleźli idealnych ochotników we własnym mieście
 /home/174520hj/dataset/CS7_191.wav|londyn to prawdziwy labirynt ulic
@@ -3188,7 +3166,6 @@
 /home/174520hj/dataset/CS7_206.wav|przeskanował ich mózgi przed rozpoczęciem nauki i po jej zakończeniu
 /home/174520hj/dataset/CS7_207.wav|u osób które zdały egzamin hipokamp rzeczywiście urósł
 /home/174520hj/dataset/CS7_208.wav|powstało wiele połączeń nerwowych
-/home/174520hj/dataset/CS7_209.wav|a może również nowe neurony
 /home/174520hj/dataset/CS7_21.wav|komórki siatki zostały zlokalizowane w korze mózgowej tuż przy hipokampie w płacie skroniowym
 /home/174520hj/dataset/CS7_210.wav|hipokamp jest bowiem jedną z niewielu struktur mózgowych w której mogą się one tworzyć
 /home/174520hj/dataset/CS7_211.wav|to badanie dobitnie ukazuje wpływ doświadczenia na kształtowanie się naszego mózgu
